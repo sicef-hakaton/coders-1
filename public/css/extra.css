@@ -1,0 +1,97 @@
+#login-page{
+    background: url('../img/login-bg.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.login-box{
+    background-color: #222;
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 20px;
+    color: #fff;
+    font-size: 30px;
+}
+
+
+
+.login-box label{
+    font-size: 24px;
+}
+
+.form-group{
+    margin: 10px;
+}
+
+.form-group input{
+    height: 30px;
+    font-size: 24px;
+}
+
+.invoice{
+    color: #42a5f5;
+    text-decoration: underline;
+}
+
+.menu-left a{
+    color: #d2dde9;
+}
+
+.pay a{
+    color: #2c3035;
+}
+
+header h4{
+    color: #2c3035;
+}
+
+h6{
+    font-weight: 400;
+}
+
+
+.modal{
+    display: none;
+    width: 400px;
+    height: 400px;
+}
+
+.modal-bg{
+    background-color: transparent rgba(0,0,0,0.5);
+    width: 100%;
+    height: 100%;
+}
+
+.icon-log-out{
+    color:#2c3035;
+}
+
+.artcl p {
+    line-height:  1.4em;
+    font-size: 15px;
+}
+
+.login-button{
+    height: 48px;
+    background-color: #42a5f5; 
+    border: solid 1px #42a5f5;
+    color: #d2dde9;
+}
+
+.login-label{
+    font-size: 14px;
+}
+
+#remember-me{
+    display: inline;
+    width: 20px;
+    margin-left: 75px;
+}
+
+.login-form input{
+    padding: 3px;
+    font-size: 16px;
+}
