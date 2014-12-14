@@ -1,5 +1,5 @@
 # Aplikacija eŠalter
-## Tim „Coders +1”
+## Tim „Coders +1” - osvojeno 3. mesto
 
 Aplikacija nastala na [SICEF hakatonu](http://sicef.info/hakaton/), 24-časovnom takmičenju u programiranju održanom na Elektronskom fakultetu u Nišu, 22. i 23. novembra 2014. godine. 
 
@@ -31,7 +31,7 @@ Preko eŠalter aplikacije, student može da naruči dokumenta koja želi da preu
 Najpre je potrebno [instalirati Laravel](http://laravel.com/docs/4.2/quick) a zatim napraviti MySQL bazu i nazvati je "hakaton" (ime baze se može promeniti u fajlu _/app/config/database.php_, linija 58). Zatim je potrebno preko konzole doći u folder gde se nalazi aplikacija i otkucati sledeću komandu: `php artisan migrate --force --seed`
 
 ​Ovo bi trebalo da napravi sve tabele u bazi i da je popuni sample podacima. Nakon ovoga, aplikacija je spremna za rad. Možete se prijaviti sa podacima: 
->**​korisničko ime:** 14161
+>**​korisničko ime:** 14161  
 >**lozinka:** password​
 
 ----------
